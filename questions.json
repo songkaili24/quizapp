@@ -1,62 +1,134 @@
 [
   {
     "question": "What is the capital of Australia?",
-    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
-    "correct_index": 2
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correct_index": 2,
+    "category": "Geography"
   },
   {
     "question": "Which planet is known as the Red Planet?",
-    "options": ["Venus", "Mars", "Jupiter", "Mercury"],
-    "correct_index": 1
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correct_index": 1,
+    "category": "Science"
   },
   {
     "question": "Who wrote \"Romeo and Juliet\"?",
-    "options": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Mark Twain"],
-    "correct_index": 2
+    "options": [
+      "Charles Dickens",
+      "Jane Austen",
+      "William Shakespeare",
+      "Mark Twain"
+    ],
+    "correct_index": 2,
+    "category": "History"
   },
   {
     "question": "What is the largest ocean on Earth?",
-    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
-    "correct_index": 3
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correct_index": 3,
+    "category": "Geography"
   },
   {
     "question": "Which gas do plants absorb from the atmosphere for photosynthesis?",
-    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
-    "correct_index": 1
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correct_index": 1,
+    "category": "Science"
   },
   {
     "question": "What is 12 x 12?",
-    "options": ["124", "144", "132", "156"],
-    "correct_index": 1
+    "options": [
+      "124",
+      "144",
+      "132",
+      "156"
+    ],
+    "correct_index": 1,
+    "category": "Math"
   },
   {
     "question": "Who painted the Mona Lisa?",
-    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
-    "correct_index": 2
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Claude Monet"
+    ],
+    "correct_index": 2,
+    "category": "History"
   },
   {
     "question": "What is the chemical symbol for gold?",
-    "options": ["Go", "Gd", "Au", "Ag"],
-    "correct_index": 2
+    "options": [
+      "Go",
+      "Gd",
+      "Au",
+      "Ag"
+    ],
+    "correct_index": 2,
+    "category": "Science"
   },
   {
     "question": "Which country hosted the 2016 Summer Olympics?",
-    "options": ["China", "Brazil", "United Kingdom", "Japan"],
-    "correct_index": 1
+    "options": [
+      "China",
+      "Brazil",
+      "United Kingdom",
+      "Japan"
+    ],
+    "correct_index": 1,
+    "category": "History"
   },
   {
     "question": "What is the tallest mountain in the world?",
-    "options": ["K2", "Kangchenjunga", "Mount Everest", "Denali"],
-    "correct_index": 2
+    "options": [
+      "K2",
+      "Kangchenjunga",
+      "Mount Everest",
+      "Denali"
+    ],
+    "correct_index": 2,
+    "category": "Geography"
   },
   {
     "question": "Which language has the most native speakers worldwide?",
-    "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"],
-    "correct_index": 2
+    "options": [
+      "English",
+      "Spanish",
+      "Mandarin Chinese",
+      "Hindi"
+    ],
+    "correct_index": 2,
+    "category": "Language"
   },
   {
     "question": "How many continents are there on Earth?",
-    "options": ["5", "6", "7", "8"],
-    "correct_index": 2
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_index": 2,
+    "category": "Geography"
   }
 ]
